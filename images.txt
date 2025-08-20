@@ -7,3 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 alist666/alist:latest
+p3terx/aria2-pro
