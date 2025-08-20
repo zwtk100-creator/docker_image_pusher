@@ -6,4 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nyanmisaka/jellyfin
 linuxserver/jackett
-allanpk716/chinesesubfinder
